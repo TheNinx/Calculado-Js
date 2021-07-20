@@ -1,0 +1,31 @@
+.rTable { 
+    display: table; 
+}
+
+.rTableRow { 
+    display: table-row; 
+}
+
+.rTableCell { 
+    display: table-cell;
+    padding: 10px; 
+}
+
+button {
+    font-size: 40px;
+    width: 100px;
+    height: 100px;
+}
+
+#output {
+    font-size: 40px;
+    text-align: right;
+    width: 470px;
+    border: 2px solid black;
+}
+body{
+    /* background-image: url(1059359.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
